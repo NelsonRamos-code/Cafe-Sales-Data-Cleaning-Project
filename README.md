@@ -27,3 +27,8 @@ Cafe Sales Data
 
 */
 
+<h2>📊 Results</h2>
+
+- <b>Cleaned dataset ready for analysis (EDA, sales trends, etc.)</b> 
+- <b>Improved data quality by handling missing & invalid entries</b>
+- <b>Enhanced features for deeper insights (e.g., monthly/weekday trends)</b> 
