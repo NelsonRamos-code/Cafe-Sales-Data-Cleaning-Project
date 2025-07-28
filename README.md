@@ -13,7 +13,7 @@ This project involved cleaning and preparing a café sales dataset (downloaded f
 
 <h2>Environments Used </h2>
 
-- <b>SQL Server</b> (21H2)
+- <b>SQL Server</b> 
 
 <h2>Program walk-through:</h2>
 
