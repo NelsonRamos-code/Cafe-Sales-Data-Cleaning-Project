@@ -15,9 +15,13 @@ This project involved cleaning and preparing a café sales dataset (downloaded f
 
 - <b>SQL Server</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Report walk-through:</h2>
 
-/*
+<p align="center">
+Income Statement Summary: <br/>
+<img src="https://i.imgur.com/ndoX7Yc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
  Look at: SQLQuery2 - cafe sales.sql
